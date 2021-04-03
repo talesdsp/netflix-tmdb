@@ -15,9 +15,9 @@ export default function Header({ black = false }: IHeader) {
       <header className={black ? "black" : ""}>
         <div className="header--logo">
           <img
-            width="70"
-            height="50"
-            src="http://nativeadvertisinginstitute.com/wp-content/uploads/2015/03/Netflix_Logo_Digital-Video.png"
+            width="90"
+            height="70"
+            src="https://nativeadvertisinginstitute.com/wp-content/uploads/2015/03/Netflix_Logo_Digital-Video.png"
           />
         </div>
         <div className="header--user">

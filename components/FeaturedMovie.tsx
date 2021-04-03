@@ -95,8 +95,6 @@ export default function FeaturedMovie({ item }: IFeaturedMovie) {
             flex-direction: column;
             justify-content: center;
             padding-left: 30px;
-            padding-bottom: 150px;
-            padding-top: 70px;
           }
 
           .featured--name {
