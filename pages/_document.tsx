@@ -47,7 +47,7 @@ export default class MyDocument extends Document {
           <meta property="og:title" content="Netflix" />
           <meta name="description" content="" />
           <meta property="og:description" content="" />
-          <meta property=" og:url" content="" />
+          <meta property=" og:url" content="https://netflix-tmdb.vercel.app/" />
 
           <link rel="canonical" href="/" />
 
